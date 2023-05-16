@@ -12,9 +12,9 @@ This project aims to provide a comprehensive introduction to Algorithmic Trading
 
 Throughout the project, we will delve into key topics, including:
 
-Understanding the Foundations of Algorithmic Trading:
+# Understanding the Foundations of Algorithmic Trading:
 
-# Introduction to financial markets and trading principles
+Introduction to financial markets and trading principles
 Exploring the benefits and challenges of algorithmic trading
 Overview of different trading strategies and their application
 Data Acquisition and Preprocessing:
