@@ -11,20 +11,27 @@ Familiarize yourself with basic finance concepts.
 Explore the structure and functioning of financial markets.
 Begin gathering financial data from various sources.
 
+link - https://www.investopedia.com/terms/f/financial-market.asp
+link - https://algotrading101.com/learn/yahoo-finance-api-guide/
 
 Week 2 (28th May - 3rd June):
 Clean the gathered financial data by handling missing values and outliers.
 Perform exploratory data analysis to gain insights into the data.
 
+link = https://github.com/ranaroussi/yfinance
+link - https://algotrading101.com/learn/yahoo-finance-api-guide/
 
 Week 3 (4th June - 10th June):
 Learn about different trading principles and strategies.
 Build mathematical models and algorithms for trading strategies.
 
+link = https://corporatefinanceinstitute.com/resources/capital-markets/what-are-algorithms-algos/#:~:text=Strategies%20for%20Algorithmic%20Trading&text=The%20most%20popular%20strategies%20are,cost%20reduction%2C%20and%20pairs%20trading.
+link = https://blog.quantinsti.com/algorithmic-trading-maths/ 
 
 Week 4 (11th June - 17th June):
 Implement quantitative techniques and statistical analysis in trading algorithms.
 Optimize strategies for risk management and profitability.
+
 
 
 Mid-summer Report (20th June):
