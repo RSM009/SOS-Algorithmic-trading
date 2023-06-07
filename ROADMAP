@@ -32,7 +32,11 @@ Week 4 (11th June - 17th June):
 Implement quantitative techniques and statistical analysis in trading algorithms.
 Optimize strategies for risk management and profitability.
 
+link = https://blog.quantinsti.com/algorithmic-trading-strategies/
 
+your code should be ready to fetch data and you are ready to code a simple strategy till mid-term report. strategy may be indicator based or price action based 
+whichever you can choose and it should be plotting the signal for last 7 day data and you must be able to explain the reason behind it. So think and create 
+the strategy .
 
 Mid-summer Report (20th June):
 Reflect on the progress made until June 18th.
