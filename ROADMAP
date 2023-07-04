@@ -60,7 +60,11 @@ Understand order types and market dynamics for live trading.
 Week 7 (2nd July - 8th July):
 Implement algorithmic trading systems for live trading.
 Monitor and refine strategies in real-time.
+link = https://towardsdatascience.com/paper-trading-get-rid-of-boring-stuff-using-python-part-1-914ab3b04724
+link = https://www.investopedia.com/articles/trading/10/backtesting-walkforward-important-correlation.asp
 
+# YOUR CODE SHOULD BE READY TO DEPLOY IN REALTIME WHICH FETCH THE PRICE (LTP) AND ABLE TO GENERATE SIGNAL ON THE BASIS OF INDICATORS YOU CREATED BEFORE.
+# IF YOU CAN DO THE PINE SCRIPT FOR YOUR INDICATOR ON TRADINGVIEW IT WILL GIVE YOU EXTRA MARKS WHILE GRADING .
 
 Week 8 (9th July - 15th July):
 Review and finalize the project.
